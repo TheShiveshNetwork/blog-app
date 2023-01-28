@@ -6,7 +6,7 @@ import { getPosts } from '../services'
 import { PostCard, Categories, PostWidget } from '../components'
 import { FeaturedPosts } from '../sections'
 
-const Home: NextPage = ({ posts }) => {
+const Home: NextPage = (posts) => {
   return (
     <div className="container mx-auto px-10 mb-8">
       <Head>
