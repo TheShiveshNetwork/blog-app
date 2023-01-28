@@ -547,11 +547,6 @@
   "resolved" "https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz"
   "version" "0.1.2"
 
-"nprogress@^0.2.0":
-  "integrity" "sha512-I19aIingLgR1fmhftnbWWO3dXc0hSxqHQHQb3H8m+K3TnEn/iSeTZZOyvKXWqQESMwuUVnatlCnZdLBZZt2VSA=="
-  "resolved" "https://registry.npmjs.org/nprogress/-/nprogress-0.2.0.tgz"
-  "version" "0.2.0"
-
 "object-hash@^3.0.0":
   "integrity" "sha512-RSn9F68PjH9HqtltsSnqYC1XXoWe9Bju5+213R98cNGttag9q9yAOTzdbsqvIa7aNm5WffBZFpWYr2aWrklWAw=="
   "resolved" "https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz"
